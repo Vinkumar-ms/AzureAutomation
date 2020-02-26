@@ -4,4 +4,4 @@ param
     [String] $Name = "World"
 )
 
-"Hello $Name! Welcome to Azure Automation"
+"Hello AA Source Control $Name! Welcome to Azure Automation"
