@@ -4,4 +4,4 @@ param
     [String] $Name = "World"
 )
 
-"Hello $Name! Welcome to Github Azure Automation Source Control 6"
+"Hello $Name! Welcome to Github Azure Automation Source Control 7"
